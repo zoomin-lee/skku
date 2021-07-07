@@ -1,0 +1,38 @@
+1-1. 'ftype' is a exe file that identifies type of the file that is handed over to argv[1]
+1-2. Use : # ./ftype filename 
+1-3. ex) # ./ftype ..
+
+2-1. 'fchmod' is a file to change the mod of file that is handed over to argv[2]
+2-2. Use : # ./fchmod mod filename
+2-3. ex) # ./fchmod 664 chmod_test
+
+3-1. 'cptime' is a file to change second file's(argv[2]) accesss time & modified time to first file's(argv[1]) each time value.
+3-2. Use : # ./cptime filename1 filename2
+3-3. ex) # ./cptime cptime_test1 cptime_test2
+
+4-1. 'simple_ls' is a file that implements 'ls' command.
+4-2. Use : # ./simple_ls dir(or NULL) //NULL means '.'
+4-3. ex) # ./simple_ls 
+
+5-1. 's_option_ls' is a file that implements 'ls -s' command.
+5-2. Use : # ./s_option_ls dir(or NULL)
+5-3. ex) # ./s_option_ls
+
+6-1. 'l_option_ls' is a file that implements 'ls -l' command.
+6-2. Use : # ./l_option_ls dir(or NULL)
+6-3. ex) # ./l_option_ls
+
+7-1. 'link' : Hard linking exe file.
+7-2. Use : # ./link filename new_filename
+7-3. I already used 'link' file like this "# ./link link link_test"
+
+8-1. 'unlink' : unlinking link file.
+8-2. Use : # ./link link_filename
+
+9-1. 'slink' : symbolic linking exe file.
+9-2. Use : # ./slink filename new_filename
+9-3. I already used 'slink' file like this "# ./slink slink slink_test"
+
+10-1. 'read_slink' : reading symbolic link file's real contents.
+10-2. Use : # ./read_slink symbolic_link_filename
+10-3. ex) # ./read_slink slink_test

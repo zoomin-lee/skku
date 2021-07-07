@@ -1,0 +1,5 @@
+﻿  Array_based.c
+C:\Users\jumin\source\repos\Pirority_Queue_and_Heap.c\Array_based.c(62,19): warning C4047: '함수': 'Heap *'의 간접 참조 수준이 'Heap **'과(와) 다릅니다.
+C:\Users\jumin\source\repos\Pirority_Queue_and_Heap.c\Array_based.c(62,13): warning C4024: 'isfull': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jumin\source\repos\Pirority_Queue_and_Heap.c\Array_based.c(63,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Pirority_Queue_and_Heap.c.vcxproj -> C:\Users\jumin\source\repos\Pirority_Queue_and_Heap.c\Debug\Pirority_Queue_and_Heap.c.exe

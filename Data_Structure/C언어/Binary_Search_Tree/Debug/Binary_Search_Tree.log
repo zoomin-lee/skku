@@ -1,0 +1,5 @@
+﻿  BST.c
+C:\Users\jumin\Documents\Data_Sturcture\Binary_Search_Tree\BST.c(134,6): error C2371: 'remove': 재정의. 기본 형식이 다릅니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(364): message : 'remove' 선언을 참조하십시오.
+C:\Users\jumin\Documents\Data_Sturcture\Binary_Search_Tree\BST.c(221,14): warning C4133: '함수': 'BSTnode *'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\jumin\Documents\Data_Sturcture\Binary_Search_Tree\BST.c(221,16): warning C4020: 'remove': 실제 매개 변수가 너무 많습니다.

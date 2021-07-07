@@ -1,0 +1,2 @@
+C:\Users\jumin\Documents\Data_Sturcture\Graph.c\x64\Debug\Graph.c.exe
+C:\Users\jumin\Documents\Data_Sturcture\Graph.c\x64\Debug\Graph.c.pdb

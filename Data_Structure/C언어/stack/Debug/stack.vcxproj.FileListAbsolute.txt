@@ -1,0 +1,2 @@
+C:\Users\jumin\Documents\Data_Sturcture\stack\Debug\stack.exe
+C:\Users\jumin\Documents\Data_Sturcture\stack\Debug\stack.pdb

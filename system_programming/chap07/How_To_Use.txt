@@ -1,0 +1,13 @@
+1-1. The 'cat' was made to implement cat command.
+1-2. Use : # ./cat filename(like cat.c)
+
+2-1. 'copy' file A to file B. This file is same with 'copy' of chap4. The only difference is what function is used. (open() in chap4, fopen() in chap7)
+2-2. Use : # ./copy fileA fileB
+
+3-1. 'line_count' counts file A's total line number. 
+3-2. Use : # ./line_count fileA
+
+4-1. 'fprint' is a file to make student database with using fprintf();
+4-2. Use : # ./fprint studb1
+4-3. 'fscan' is a file to check student database with using fscanf();
+4-4. Use : # ./fscan studb1

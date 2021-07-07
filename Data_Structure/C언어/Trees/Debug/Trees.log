@@ -1,0 +1,10 @@
+﻿  Binary_Tree.c
+  Threaded_Binary_Tree.c
+C:\Users\jumin\Documents\Data_Sturcture\Trees\Threaded_Binary_Tree.c(38,38): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\jumin\Documents\Data_Sturcture\Trees\Threaded_Binary_Tree.c(47,6): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\jumin\Documents\Data_Sturcture\Trees\Threaded_Binary_Tree.c(52,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\jumin\Documents\Data_Sturcture\Trees\Threaded_Binary_Tree.c(95,13): error C2374: 'succ': 재정의. 여러 번 초기화했습니다.
+C:\Users\jumin\Documents\Data_Sturcture\Trees\Threaded_Binary_Tree.c(93): message : 'succ' 선언을 참조하십시오.
+C:\Users\jumin\Documents\Data_Sturcture\Trees\Threaded_Binary_Tree.c(97,13): error C2374: 'succ': 재정의. 여러 번 초기화했습니다.
+C:\Users\jumin\Documents\Data_Sturcture\Trees\Threaded_Binary_Tree.c(93): message : 'succ' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
