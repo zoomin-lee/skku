@@ -75,7 +75,7 @@ Part 2. Homography : A2_homography.py
 - kp, des = orb.compute( img , kp )
 - Perform feature matching between two images (‘cv_desk.png’ and ‘cv_cover.jpg’), and display top-10 matched pairs according to feature similarities
 - cannot use any built-in function that directly performs feature matching
-https://user-images.githubusercontent.com/65997635/125275462-ff48a200-e349-11eb-8390-4adab3cdf28c.png
+![image](https://user-images.githubusercontent.com/65997635/125275462-ff48a200-e349-11eb-8390-4adab3cdf28c.png)
 
 ### A3
 ### A4
