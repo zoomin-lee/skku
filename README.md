@@ -115,7 +115,25 @@ Part 2. Homography : A2_homography.py
 
 ### A3
 Part 1. Fundamental Matrix : A3_Fmat.py
+- The feature correspondences between two images are also provided in ‘temple_matches.txt’ file.
+- M = np.loadtxt( ‘temple_matches.txt’ )
 
+- Implement the Eight-point algorithm to compute the fundanmental matrix
+- function F = compute_F_raw ( M )
+
+- Implement the Eight-point algorithm with a normalization
+- function F = compute_F_norm ( M )
+
+- Implement your own algorithm to compute the fundanmental matrix
+- function F = compute_F_mine ( ... )
+- It should return the result within 3 seconds.
+
+Part 2. Visualization of epipolar lines
+- Implement a script that performs the followings:
+- Randomly select 3 correspondances: (𝑝1 ↔ 𝑞1), (𝑝2 ↔ 𝑞2), and (𝑝3 ↔ 𝑞3)
+- Compute 6 epipolar lines 𝑙1, 𝑙2, 𝑙3, 𝑚1, 𝑚2, 𝑚3 corresponding to 𝑝1, 𝑝2, 𝑝3, 𝑞1, 𝑞2, 𝑞3.
+
+![image](https://user-images.githubusercontent.com/65997635/125275544-21dabb00-e34a-11eb-938c-a673ea84bf75.png)
 
 ### A4
 
