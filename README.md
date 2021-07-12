@@ -135,14 +135,13 @@ Part 2. Visualization of epipolar lines
 
 ![image](https://user-images.githubusercontent.com/65997635/125275544-21dabb00-e34a-11eb-938c-a673ea84bf75.png)
 
-### A4
 
 ##  Introduction_to_deep_nerual_networks 심층신경망개론
-- DNN_HW1
-- DNN_HW2
-- DNN_HW3
-- DNN_HW4
-- Final_Project
+### DNN_HW1
+### DNN_HW2
+### DNN_HW3
+### DNN_HW4
+### Final_Project
 
 ##  python_class
 - 기본 python 문법을 복습하면서 공부한 내용
