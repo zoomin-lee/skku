@@ -37,14 +37,19 @@ Part 1. Image Filtering : A1_image_filtering.py
 Part 2. Edge Detection : A1_edge_detection.py
 2-1 Implement a function that returns the image gradient
 - function mag, dir = compute_image_gradient ( img )
+
 ![image](https://user-images.githubusercontent.com/65997635/125275284-cd374000-e349-11eb-9bc1-80347ba505ed.png)
+
 ![image](https://user-images.githubusercontent.com/65997635/125275299-d32d2100-e349-11eb-81d6-bed06f4d81dd.png)
 
 2-2 Implement a function that performs Non-maximum Suppression (NMS)
 - function suppressed_mag = non_maximum_suppression_dir ( mag , dir )
 - implement an approximated version of NMS by quantizing the gradient directions into 8 bins. If a direction is represented by an angle in degrees, we can map the direction to the closet representative angle among [0°, 45°, … ,315°]
+
 ![image](https://user-images.githubusercontent.com/65997635/125275321-d88a6b80-e349-11eb-8704-2cba253844af.png)
+
 ![image](https://user-images.githubusercontent.com/65997635/125275337-db855c00-e349-11eb-8e5a-48c7c96f4986.png)
+
 ![image](https://user-images.githubusercontent.com/65997635/125275351-df18e300-e349-11eb-8106-ef65539c24de.png)
 
 Part 3. Corner Detection : A1_corner_detection.py
