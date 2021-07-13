@@ -3,6 +3,8 @@
 ##  Data_Structure 자료구조개론
 - c언어와 python으로 자료구조개론 구현
 
+-----------------
+
 ##  Machine_Learning 기계학습
 ### ML_Assignment1 : Navie Bayes 
 ### ML_Assignment2 : Linear SVM 
@@ -21,6 +23,8 @@ to design & implement an ML-based applicationto predict whether the person who a
 
 #### Project2
 - Use machine learning classifiers already developed in other libraries(e.g.,scikit-learn)
+
+--------------------
 
 ##  cs231n 
 ### assignment1
@@ -56,6 +60,8 @@ In this assignment, you will implement recurrent neural networks and apply them 
 - Explore various applications of image gradients, including saliency maps, fooling images, class visualizations.
 - Understand and implement techniques for image style transfer.
 - Understand how to train and implement a Generative Adversarial Network (GAN) to produce images that resemble samples from a dataset.
+
+-------------------
 
 ##  Introduction_of_computer_vision 컴퓨터비전개론
 ### A1
@@ -174,7 +180,7 @@ Part 2. Visualization of epipolar lines
 
 ![image](https://user-images.githubusercontent.com/65997635/125275544-21dabb00-e34a-11eb-938c-a673ea84bf75.png)
 
-
+---------
 ##  Introduction_to_deep_nerual_networks 심층신경망개론
 ### DNN_HW1
 Linear Regression
@@ -224,8 +230,12 @@ Dataset:
 - Input: 32x32 image with RGB channels.
 - Classes: 10 (Detailed information on labels is not provided.)
 
+--------
+
 ##  python_class
 - 기본 python 문법을 복습하면서 공부한 내용
+
+---------
 
 ##  system_programming 시스템 프로그래밍
 - 원리와 실제 리눅스 프로그래밍(창병모)
