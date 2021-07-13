@@ -14,9 +14,39 @@
 - Porject2
 
 ##  cs231n 
-- assignment1
-- assignment2
-- assignment3
+### assignment1
+In this assignment you will practice putting together a simple image classification pipeline based on the k-Nearest Neighbor or the SVM/Softmax classifier. The goals of this assignment are as follows:
+
+- Understand the basic Image Classification pipeline and the data-driven approach (train/predict stages)
+- Understand the train/val/test splits and the use of validation data for hyperparameter tuning.
+- Develop proficiency in writing efficient vectorized code with numpy
+- Implement and apply a k-Nearest Neighbor (kNN) classifier
+- Implement and apply a Multiclass Support Vector Machine (SVM) classifier
+- Implement and apply a Softmax classifier
+- Implement and apply a Two layer neural network classifier
+- Understand the differences and tradeoffs between these classifiers
+- Get a basic understanding of performance improvements from using higher-level representations as opposed to raw pixels, e.g. color histograms, Histogram of Gradient (HOG) features, etc.
+
+### assignment2
+In this assignment you will practice writing backpropagation code, and training Neural Networks and Convolutional Neural Networks. The goals of this assignment are as follows:
+
+- Understand Neural Networks and how they are arranged in layered architectures.
+- Understand and be able to implement (vectorized) backpropagation.
+- Implement various update rules used to optimize Neural Networks.
+- Implement Batch Normalization and Layer Normalization for training deep networks.
+- Implement Dropout to regularize networks.
+- Understand the architecture of Convolutional Neural Networks and get practice with training them.
+- Gain experience with a major deep learning framework, such as TensorFlow or PyTorch.
+
+### assignment3
+In this assignment, you will implement recurrent neural networks and apply them to image captioning on the Microsoft COCO data. You will also explore methods for visualizing the features of a pretrained model on ImageNet, and use this model to implement Style Transfer. Finally, you will train a Generative Adversarial Network to generate images that look like a training dataset! The goals of this assignment are as follows:
+
+- Understand the architecture of recurrent neural networks (RNNs) and how they operate on sequences by sharing weights over time.
+- Understand and implement both Vanilla RNNs and Long-Short Term Memory (LSTM) networks.
+- Understand how to combine convolutional neural nets and recurrent nets to implement an image captioning system.
+- Explore various applications of image gradients, including saliency maps, fooling images, class visualizations.
+- Understand and implement techniques for image style transfer.
+- Understand how to train and implement a Generative Adversarial Network (GAN) to produce images that resemble samples from a dataset.
 
 ##  Introduction_of_computer_vision 컴퓨터비전개론
 ### A1
@@ -178,6 +208,12 @@ Logistic Regression
 - [CNN with Fashion MNIST] Choose a model and adjust the model settings (# of hidden layers, # of hidden nodes, # of epochs, learning rate, etc.) to get the best results over FashionMNIST dataset using ‘main_classification.py.’
 
 ### Final_Project
+Semi-supervised learning for image classification: The goal of our final project is to build a machine learning model for image classification, where a few data are only labeled and most of the data are unlabeled. Therefore, it is essential to utilize a large amount of unlabeled data to improve the accuracy of your model.
+
+Dataset: 
+- Train(labeled)/Train(unlabeled)/Test data: 5,000 / 35,551 / 10,000
+- Input: 32x32 image with RGB channels.
+- Classes: 10 (Detailed information on labels is not provided.)
 
 ##  python_class
 - 기본 python 문법을 복습하면서 공부한 내용
