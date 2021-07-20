@@ -63,6 +63,13 @@ In this assignment, you will implement recurrent neural networks and apply them 
 
 -------------------
 
+## Tensorflow_and_Pytorch
+- Fastcampus 강의 기반
+- https://fastcampus.co.kr/
+
+-------------------
+
+
 ##  Introduction_of_computer_vision 컴퓨터비전개론
 ### A1
 Part 1. Image Filtering : A1_image_filtering.py
